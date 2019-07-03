@@ -1,6 +1,6 @@
 {
-  "mongoURI": "",
+  "mongoURI": "mongodb+srv://allen:sabertooth371@backtofront-q3ldt.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "secret",
-  "githubClientId": "",
-  "githubSecret": ""
+  "githubClientId": "7cc541a84641a10e83a5",
+  "githubSecret": "445e1549bedc40625e185391b69b513030dffece"
 }
